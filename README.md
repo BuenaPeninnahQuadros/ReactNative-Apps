@@ -1,5 +1,4 @@
-**KisanVaani**
-KisaanVaani is a multilingual (7 languages) AI-powered agriculture assistant app built with Expo Go, designed and validated with real farmers to ensure accessibility across diverse language and literacy levels.
+**KisanVaani** is a multilingual (7 languages) AI-powered agriculture assistant app built with Expo Go, designed and validated with real farmers to ensure accessibility across diverse language and literacy levels.
 
 ✨ Key Highlights
 
